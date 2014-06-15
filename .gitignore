@@ -32,3 +32,4 @@ tests/proguard-project.txt
 
 # Should not be commited inside this repo:
 actionbarsherlock/
+/tests
